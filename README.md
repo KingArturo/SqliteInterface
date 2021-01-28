@@ -19,4 +19,4 @@ Si la tabla en la que te encuentras tiene relaciones podras visualizarlas en
 la pestañas relaciones>ver... .
 ## Sentencias
 Puedes ejecutar cualquier sentencia permitida por Sqlite
-![Screenshot](image/1.png)
+![Screenshot](https://github.com/KingArturo/SqliteInterface/blob/master/image/1.PNG)
