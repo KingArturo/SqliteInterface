@@ -19,3 +19,4 @@ Si la tabla en la que te encuentras tiene relaciones podras visualizarlas en
 la pestañas relaciones>ver... .
 ## Sentencias
 Puedes ejecutar cualquier sentencia permitida por Sqlite
+![Screenshot](/image1.png)
